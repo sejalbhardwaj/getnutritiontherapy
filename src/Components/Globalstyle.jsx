@@ -1,4 +1,3 @@
-import { Tab } from "bootstrap";
 import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
