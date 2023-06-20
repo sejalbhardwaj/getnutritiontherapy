@@ -25,7 +25,7 @@ The website requires real data, which will be regularly updated to ensure accura
 ## Technologies Used
 
 - Vite
-- React
+- ReactJs
 
 ## Getting Started
 
